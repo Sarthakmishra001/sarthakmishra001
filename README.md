@@ -34,7 +34,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 - 🌐 Explore my portfolio  
 <p>
-  <a href="https://portfolio-sarthak-ashy.vercel.app/" target="_blank">
+  <a href="https://xsarthak.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Work-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
