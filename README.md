@@ -21,7 +21,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science undergraduate in the final year of engineering  
+- 🎓 Computer Science Engineering graduate
 - 🚀 Strong interest in modern frontend, clean UI, and performance optimization  
 - 🎯 Currently exploring advanced web technologies and system design fundamentals  
 
